@@ -1,0 +1,16 @@
+{
+    "name": "saulherrera/sistema",
+    "description": "Generador de Reporte de Incidencia Delictiva",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saul Herrera"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1",
+        "phpoffice/phpword": "^1.2"
+    }
+}
